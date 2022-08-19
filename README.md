@@ -1,2 +1,2 @@
-# EjercicioPrecioCantidadDescuento
+# BASESJSYouTubeClass
 Created with CodeSandbox
